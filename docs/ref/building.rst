@@ -14,6 +14,10 @@ Building |amongoc| is supported with the following build tools:
 .. _CMake: https://cmake.org/
 .. _Earthly: https://earthly.dev/
 
+Builds are only currently tested with Debian 12 and Alpine 3.20. Support for
+other platforms may be considered in the future, but are not currently planned
+for this prototype.
+
 
 Build Configuration
 ###################
